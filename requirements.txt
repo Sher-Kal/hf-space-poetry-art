@@ -1,0 +1,6 @@
+gradio==5.44.0
+huggingface_hub>=0.23.0
+pillow>=10.0.0
+transformers>=4.43.0
+torch>=2.2.0
+accelerate>=0.33.0
